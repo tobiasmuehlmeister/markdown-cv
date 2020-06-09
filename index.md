@@ -3,7 +3,7 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Physicist, Mathematician, Cambridge professor, great guy.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
